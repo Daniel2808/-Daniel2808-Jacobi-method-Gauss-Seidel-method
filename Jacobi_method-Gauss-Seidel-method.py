@@ -1,5 +1,4 @@
-#דניאל אסייג 316614320
-#עינב ביטון 318231750
+
 epsilon = 0.001
 def dominant_Diagonal(M):
     sum=0
